@@ -5,6 +5,7 @@ public class Testirovka {
         int b = 3;
         int rezult = ( a / b);
         System.out.println(rezult);
+        System.out.println("Вывсе решили правильно");
 
     }
 
