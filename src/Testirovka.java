@@ -7,6 +7,7 @@ public class Testirovka {
         System.out.println(rezult);
         System.out.println("Вывсе решили правильно");
         System.out.println("Идем в будущее");
+        System.out.println("Пробуем Fench");
     }
 
 
