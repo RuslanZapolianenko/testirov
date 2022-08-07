@@ -7,7 +7,7 @@ public class Testirovka2 {
     }
 
     public  void method(String[] args) {
-
+        System.out.println("Hello GitHub");
     }
     }
 
