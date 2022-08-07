@@ -6,7 +6,7 @@ public class Testirovka {
         int rezult = ( a / b);
         System.out.println(rezult);
         System.out.println("Вывсе решили правильно");
-
+        System.out.println("Идем в будущее");
     }
 
 
